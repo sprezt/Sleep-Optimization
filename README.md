@@ -13,4 +13,4 @@ Add stories as needed, still need to fill out
     2) Dietary adjustments
     3) Exercise application
 	
-		3.  Lifestyle upgrades - As someone who drink a lot of caffeinated beverages, I would like to drink less caffeinated beverages, so that I may sleep better - Will
+	3.  Lifestyle upgrades - As someone who drink a lot of caffeinated beverages, I would like to drink less caffeinated beverages, so that I may sleep better - Will
